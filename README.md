@@ -2,9 +2,12 @@
 
 ## 核心组织列表
 
+- [tws-draft](https://github.com/tws-draft) - 在你忍不住想建一个仓库的时候，请来这里，允许你瞎胡整，整完觉得靠谱，再考虑移到以下对应组织中。
+
 - [thoughtworks-school](https://github.com/thoughtworks-school) - （这里）主仓库、用于存放私有库和影响力项目（比如书籍）。
 - [tws-system](https://github.com/tws-system) - 教育支撑系统仓库。
-- [tws-practice](https://github.com/tws-practice) - 练习题仓库，用于存放各类练习题。
+- [tws-practice](https://github.com/tws-practice) - 练习题仓库，用于存放符合最新教学体系的练习题。
+- [tws-practice-archive](https://github.com/tws-practice-archive) - 练习题存档仓库，用于存放已经陈旧或不再使用的练习题。
 - [tws-stack](https://github.com/tws-stack) - 技术栈存档仓库，用于定制和收集各类技术栈原型。
 - [tws-archive](https://github.com/tws-archive) - 存档仓库，用于存放历史久远、暂停使用或弃之可惜的东西。
 
